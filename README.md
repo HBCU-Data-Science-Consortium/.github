@@ -1,2 +1,2 @@
-# .github
+# HBCU DSC
 Organization Profile README
